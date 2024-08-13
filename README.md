@@ -20,4 +20,4 @@ Step 10: open the file
 Step 11: Convert numeric data to nominal data
 Step 12: Check the information gain ratio of the data
 Step 13: Open the dataset.arff to display the average one dependence estimator classifier
-Step 14: Click on “Evaluation” to check the accuracy of machine learning techniques.
+Step 14: Click on “Evaluation” to check the accuracy of machine learning techniques..
